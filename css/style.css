@@ -22,7 +22,7 @@
   }
 
 body {
-    background-image: url(./img/fondo.png);
+    background-image: url(../img/fondo.png);
     display: flex;
     justify-content: center;
 
@@ -39,7 +39,7 @@ section {
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 30px;
     color: white;
 }
